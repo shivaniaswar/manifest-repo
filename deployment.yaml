@@ -16,5 +16,5 @@ spec:
       - name: myapp-container
         image: aswarshivani/myapp_server:34
         ports:
-        - containerPort: 8080
+        - containerPort: 8082
         
